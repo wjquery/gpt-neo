@@ -9,7 +9,7 @@ pytest
 sacred
 tensorflow==2.8.1
 tensorflow-datasets==3.2.1
-tokenizers==0.9.4
+tokenizers
 transformers==4.1.1
 tpunicorn
 absl-py
